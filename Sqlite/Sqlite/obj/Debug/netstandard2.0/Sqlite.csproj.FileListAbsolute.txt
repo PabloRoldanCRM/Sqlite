@@ -1,0 +1,8 @@
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\bin\Debug\netstandard2.0\Sqlite.deps.json
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\bin\Debug\netstandard2.0\Sqlite.dll
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\bin\Debug\netstandard2.0\Sqlite.pdb
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\obj\Debug\netstandard2.0\Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\obj\Debug\netstandard2.0\Sqlite.AssemblyInfoInputs.cache
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\obj\Debug\netstandard2.0\Sqlite.AssemblyInfo.cs
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\obj\Debug\netstandard2.0\Sqlite.dll
+C:\Users\Rhino Systems\source\repos\Sqlite\Sqlite\Sqlite\obj\Debug\netstandard2.0\Sqlite.pdb
